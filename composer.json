@@ -1,5 +1,5 @@
 {
-  "name": "the-tinderbox/clickhouse-php-client",
+  "name": "otytarenko/clickhouse-php-client",
   "description": "Clickhouse client over HTTP",
   "authors": [
     {
